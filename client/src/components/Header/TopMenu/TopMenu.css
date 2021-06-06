@@ -1,0 +1,13 @@
+.TopNav {
+  display: flex;
+  flex-direction: row;
+  height: 37px;
+  width: 1050px;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.signup {
+  color: #5f0080;
+}

@@ -1,0 +1,19 @@
+.eventInfo {
+  height: 3rem;
+  background-color: #5f0080;
+}
+
+.eventInfo span {
+  color: #fff;
+}
+
+.logo {
+  position: relative;
+  height: 63px;
+  width: 1050px;
+  margin: 0 auto;
+}
+
+.logo img {
+  margin-top: -1rem;
+}

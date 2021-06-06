@@ -1,7 +1,12 @@
 import "./App.css";
+import Header from "./components/Header/Header/Header";
 
 function App() {
-  return <div className="App">App수정</div>;
+  return (
+    <div className="App">
+      <Header />
+    </div>
+  );
 }
 
 export default App;
