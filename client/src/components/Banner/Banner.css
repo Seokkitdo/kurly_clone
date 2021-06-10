@@ -1,3 +1,7 @@
+.gnb {
+  position: sticky;
+}
+
 .slider {
   position: relative;
 

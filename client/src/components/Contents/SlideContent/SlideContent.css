@@ -1,0 +1,39 @@
+.slide__title {
+  box-sizing: border-box;
+  height: 146px;
+  padding: 79px 0 35px 0;
+}
+
+.slide__title p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #333;
+  font-weight: 600;
+  letter-spacing: 0;
+  font-size: 26px;
+}
+
+.slide__contents {
+  display: flex;
+  width: 1050px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.slide__content {
+  margin-right: 18px;
+}
+
+.slide__content img {
+  width: 249px;
+  height: 320px;
+}
+
+.slide__content p {
+  margin-left: -160px;
+
+  font-size: 16px;
+  line-height: 23px;
+  margin-top: 12px;
+}
