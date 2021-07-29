@@ -9,6 +9,7 @@ function App() {
       <Header />
       <Banner slides={BannerData} />
       <Contents />
+      hello
     </div>
   );
 }
